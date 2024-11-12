@@ -81,7 +81,7 @@ int main() {
     Device devices[maxDevices] = {
         {"Light", false},
         {"Thermostat", false},
-        {"Security Camera", false}
+        {"Camera", false}
     };
 
     int choice;
